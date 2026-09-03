@@ -1,0 +1,232 @@
+# 01 Company Identity
+- Legal Business Name: M/S ABDUL SALAM CONSTRUCTIONS COMPANY
+- Trade Name / Common Name: Abdul Salam Construction Company (ASC)
+- GSTIN / Tax Identification: 09EOZPS3260D1ZB
+- Registered Office & Engineering Yard: Phase-II, Rajpura Colony, Opposite H.P. Petrol Pump, Aurai Road, Bhadohi, Uttar Pradesh – 221401, India
+- Geographic Coordinates: Latitude 25.3956° N, Longitude 82.5698° E (ICBM: 25.3956, 82.5698)
+- Contact Numbers: +91 70075 29965 / +91 94155 25965 / +91 93052 15202
+- Official Email: contact@abdulconstruction.com
+- Official Website: https://abdulconstruction.com/
+- Working Hours: Monday to Saturday, 09:00 AM – 07:30 PM IST
+
+# 02 Business Type
+- Entity Classification: General Contractor / Civil Engineering & Building Construction Company
+- Operating Model: Turnkey Engineering, Procurement, and Construction (EPC) for Residential and Commercial Buildings
+- Authoritative Source: Client construction quotation documents, structural bills of quantities (BOQ), and site execution contracts.
+
+# 03 Residential Turnkey Construction
+- URL: https://abdulconstruction.com/services/residential-turnkey-construction
+- Definition: Full-scope end-to-end residential construction where engineering, procurement, labor, site management, structural testing, and finishing works are consolidated under single-point responsibility from ground-breaking foundation to final handover.
+- Applicable Packages: Residential Hall (₹1,500/sq.ft), Standard Residential Building (₹1,850/sq.ft), and Premium Residential Building (₹2,250/sq.ft) + 18% GST.
+- Scope: Foundation excavation, PCC bed concrete, RCC structural frame, Awwal red brick masonry, formwork shuttering, double-coat plastering, concealed electrical conduit and wiring, complete sanitary plumbing and drainage, floor tiling, marble/granite stone work, hardwood door frames and flush doors, UPVC glazed windows, MS gate, SS stair railing, and wall painting.
+
+# 04 Building Construction
+- URL: https://abdulconstruction.com/services/building-construction
+- Definition: Heavy structural civil engineering and commercial construction covering site grading, deep footings, anti-termite ground barriers, column casting, floor beams, roof slabs, and multi-floor building shells.
+- Applicable Scope: Commercial open-span halls, multi-floor residential complexes, godowns, and institutional layouts.
+- Key Specifications: Foundation PCC in 8:5:1 ratio (aggregates 8, sand 5, cement 1); RCC structural mix in 3:2:1 ratio; Fe 550D high-ductility TMT bars; commercial-grade UltraTech or ACC cement.
+
+# 05 Brick Works
+- URL: https://abdulconstruction.com/services/brick-work
+- Definition: Precision masonry using first-class kiln-burned Awwal red clay bricks bonded with cement-sand mortar.
+- Engineering Mortar Ratios:
+  - 9-inch exterior perimeter brickwork: Ratio 6:1 (Screened sand - 6 parts, Cement - 1 part)
+  - 4.5-inch interior partition brickwork: Ratio 5:1 (Screened sand - 5 parts, Cement - 1 part)
+  - Foundation PCC Bed Concrete: Ratio 8:5:1 (Aggregates 20mm & 40mm - 8 parts, Sand - 5 parts, Cement - 1 part)
+- Material Standards: First-class Awwal red clay bricks with sharp geometric corners, high crushing strength, and uniform ringing sound. Sand used is screened medium or super medium red riverbed sand (morang).
+
+# 06 RCC Works
+- URL: https://abdulconstruction.com/services/rcc-works
+- Definition: Reinforced Cement Concrete structural casting of footings, plinth tie-beams, columns, lintels, chajjas, floor beams, staircases, and roof slabs.
+- Concrete Mix Ratio: 3:2:1 engineered volumetric ratio (Graded stone aggregates - 3 parts, Coarse sand/morang - 2 parts, Cement - 1 part).
+- Aggregates: 20+10mm combined graded blue metal for roof slabs; 30+10mm for foundation footings and vertical columns.
+- Steel Reinforcement: Fe 550D high-ductility TMT rebars (Tata, Jindal, Kamdhenu, Captain or equivalent).
+- Cement: High compressive strength commercial grade OPC/PPC (UltraTech Weather Plus or ACC Gold 'Not for Sale' grade specified in the quotation).
+
+# 07 Shuttering Works
+- URL: https://abdulconstruction.com/services/shuttering-works
+- Definition: Structural formwork fabrication and staging for casting concrete elements.
+- Formwork Material: Waterproof film-faced shuttering plywood with sealed perimeter edges.
+- Staging & Props: Heavy-duty wooden balli props and steel patra plates engineered for slab casting heights ranging from 8 feet to 12 feet.
+- Standards: Rigorous alignment, cambering, water-tight joint taping to prevent cement slurry leakage, and vibration-proof bracing.
+
+# 08 Plastering
+- URL: https://abdulconstruction.com/services/plastering-works
+- Definition: Application of dual-coat protective cement-sand mortar over brick masonry and concrete substrates.
+- Specifications & Thickness:
+  - External Wall Plaster: 15mm thick double-coat rough plaster in 6:1 ratio (weather-resistant finish).
+  - Internal Wall Plaster: 10mm thick fine sponge plaster in 6:1 ratio (smooth base ready for putty).
+  - Ceiling Plaster: 7mm thick neat cement plaster in 6:1 ratio.
+- Curing: Minimum 10 to 14 days of sustained wet water curing.
+
+# 09 Electrical
+- URL: https://abdulconstruction.com/services/electrical-works
+- Definition: Complete concealed electrical infrastructure from slab conduit casting to final modular fitting installation.
+- Conduit Specifications: Heavy-duty PVC conduits in roof slabs (approx. ₹70-75 per meter); Medium-duty PVC conduits in wall chases (approx. ₹45-50 per meter).
+- Wire Specifications: Multi-strand electrolytic copper FRLS (Fire Retardant Low Smoke) wiring (RR Kabel, Havells, Polycab, Anchor or equivalent).
+- Modular Switches: Heavy-duty switch plates, 3-pin power sockets, and fan regulators (Anchor Roma, Havells, RR Kabel or equivalent).
+- Scope Distinction: Supply and pull of wiring and switchboards is INCLUDED. Chandeliers, decorative hanging lights, tube lights, fans, and exhaust fans are EXCLUDED.
+
+# 10 Plumbing
+- URL: https://abdulconstruction.com/services/plumbing-works
+- Definition: Concealed sanitary water supply, wastewater soil drainage, rainwater harvesting chutes, and bathroom fixture installation.
+- Piping Specifications:
+  - Drainage & SWR: 5-inch and 4-inch PVC pipes rated for 5-6 kg/cm² pressure (Astral, Supreme or equivalent).
+  - Water Supply: Concealed CPVC (hot/cold) and UPVC (cold) lines in 0.75-inch, 1-inch, and 1.5-inch diameters (Astral, Supreme or equivalent).
+- Sanitary Fixtures:
+  - Western / Indian Commode & Washbasin: Cera in ₹1,500 tier; Jaquar wall-hung in ₹1,850 tier; Luxury Jaquar wall-hung with concealed tank in ₹2,250 tier.
+  - Faucets & Diverters: Brass chrome-plated quarter-turn fixtures (Jaquar, Cera or equivalent).
+  - Overhead Water Storage: Sintex PU multi-layer tank (500L in ₹1,500 & ₹1,850 tiers; 1,000L in ₹2,250 tier).
+- Scope Distinction: Internal plumbing lines and bathroom fixtures are INCLUDED. Deep borewell drilling, submersible pump sets, and utility meter lines are EXCLUDED.
+
+# 11 Flooring
+- URL: https://abdulconstruction.com/services/flooring-stone-tiling
+- Definition: Laying of vitrified tiles, natural marble, and granite slabs with cement-sand bed and anti-skid grouting.
+- Specifications & Allowances:
+  - General Floor Tiles: 2x2 or 2x4 vitrified tiles (Kajaria, Vermora or equivalent). Allowance: up to ₹35-40/sqft (₹1,500 package); up to ₹40-60/sqft (₹1,850 package); up to ₹60-80/sqft (₹2,250 package).
+  - Formal Family / Dining Room: Polished natural marble slabs. Allowance: up to ₹80-100/sqft (₹1,850 package); up to ₹100-120/sqft (₹2,250 package).
+  - Kitchen Platform: Jet-black polished granite with full edge molding. Allowance: up to ₹80-90/sqft (₹1,850 package); up to ₹90-110/sqft (₹2,250 package).
+  - Staircase Treads & Risers: Polished granite or marble with anti-skid groove nosing and full molding.
+  - Balcony & Terrace: Anti-skid vitrified tiles (up to ₹35-50/sqft).
+  - Bathrooms: Anti-skid floor tiles and full-height 7-8 ft glazed ceramic wall tiles (up to ₹40-60/sqft).
+
+# 12 Wood & MS
+- URL: https://abdulconstruction.com/services/wood-ms-works
+- Definition: Joinery fabrication, door frames, flush doors, UPVC window systems, and structural mild steel gate works.
+- Doors: Seasoned hardwood (saal/mirandi) frames with flush door shutters (Century Ply / Advance in ₹2,250 tier; Shakuntalam / Black Cherry in ₹1,850 tier) fitted with Godrej cylindrical/mortise locksets.
+- Windows: Prominence UPVC multi-track sliding/casement window frames with 5-6mm clear float glass (allowance up to ₹450-550/sqft in ₹1,850 tier; up to ₹450-750/sqft in ₹2,250 tier).
+- Main Entrance Gate: Heavy MS box section framing with ornamental design panels (Tata / Jindal steel or equivalent).
+- Scope Distinction: Door frames, flush shutters, hardware, windows, and main gate are INCLUDED. Modular kitchen wooden cabinetry, wardrobes, beds, and loose furniture are EXCLUDED.
+
+# 13 Railing
+- URL: https://abdulconstruction.com/services/railing-works
+- Definition: Fabrication and anchoring of safety railings on staircases, balconies, and open terraces.
+- Staircase Railing: High-grade stainless steel railing in Grade 204 or Grade 304 with mirror finish and secure anchor core.
+- Balcony & Terrace Railing: Heavy mild steel (MS) box and flat section safety railing treated with anti-rust red oxide primer and double-coat synthetic enamel finish.
+
+# 14 POP / Painting
+- URL: https://abdulconstruction.com/services/painting-pop-works
+- Definition: Wall surface preparation, false ceiling installation, and protective decorative paint application.
+- POP False Ceiling: Included in the Premium Residential Building package (₹2,250/sq.ft tier) up to a budget allowance of ₹90-125/sqft across designated rooms. Excluded from ₹1,500 and ₹1,850 tiers.
+- Wall Painting: Double-coat white cement wall putty, acrylic primer, and interior washable emulsion (Asian Paints, Nerolac or equivalent).
+- Metal & Wood Painting: Anti-rust primer followed by double-coat synthetic enamel paint on MS gates, window grills, and railings.
+
+# 15 Materials
+- Cement: High-grade OPC/PPC ('Not for Sale' industrial packaging)
+- Concrete Proportions: 3:2:1 by volume (3 aggregates, 2 sand, 1 cement)
+- Bed Concrete Proportions: 8:5:1 (8 aggregates 20mm & 40mm, 5 sand, 1 cement)
+- Masonry Mortar: 6:1 for 9-inch walls; 5:1 for 4.5-inch walls
+- Plaster Mortar: 6:1 for external (15mm) and internal (10mm)
+- Steel: Fe 550D grade high-ductility TMT rebars
+- Bricks: First-class kiln-burned Awwal red clay bricks
+- Sand: Clean screened medium and super medium red riverbed sand (morang)
+- Water: Clean potable water used for all concrete mixing and curing
+- Aggregates: Angular crushed blue metal (20+10mm combined for slabs, 30+10mm for columns)
+
+# 16 Brand References
+Where quotations mention brand names, they represent the brands specified in the quotation or equivalent standards:
+- Cement: UltraTech Weather Plus or ACC Gold ('Not for Sale' grade) specified in quotation
+- Steel Rebar (TMT): Tata, Jindal, Kamdhenu, Captain or equivalent
+- Electrical Wires: RR Kabel (FRLS), Havells, Polycab, Anchor or equivalent
+- Modular Switches: Anchor Roma, Havells, RR Kabel or equivalent
+- Plumbing Pipes: Astral, Supreme or equivalent
+- Sanitaryware: Jaquar, Cera, Kohler or equivalent
+- CP Fittings: Jaquar, Cera or equivalent
+- Vitrified Tiles: Kajaria, Vermora or equivalent
+- Flush Doors: Century Ply, Advance, Shakuntalam, Black Cherry or equivalent
+- Door Locks & Hardware: Godrej or equivalent
+- UPVC Windows: Prominence UPVC or equivalent
+- Water Storage Tanks: Sintex PU or equivalent
+- Paints & Primers: Asian Paints, Nerolac or equivalent
+
+# 17 Package Rates
+Turnkey quotation rates specified in official documents (calculated per square foot of horizontal built-up roof slab area + 18% GST):
+- Residential Hall Turnkey Quotation: ₹1,500 / SQFT + 18% GST
+- Standard Residential Building Turnkey Quotation: ₹1,850 / SQFT + 18% GST
+- Premium Residential Building Turnkey Quotation: ₹2,250 / SQFT + 18% GST
+Single Floor Construction Surcharge: When construction work is carried out for only ONE ground floor, an additional 25% surcharge applies to cover the foundational substructure.
+Quotation Validity: Agreed rates remain valid for 1 year; an escalation surcharge of 10% applies to uncompleted works beyond 1 year.
+
+# 18 Package Differences
+- ₹1,500 / SQFT Package: Basic open-span layout, Cera sanitaryware, 2x2 vitrified tiles (up to ₹35-40/sqft), standard flush doors, 500L Sintex tank, NO POP false ceiling.
+- ₹1,850 / SQFT Package: Complete multi-floor residential specification, Jaquar wall-hung commodes, 2x2/2x4 vitrified tiles (up to ₹40-60/sqft), polished marble in dining room (up to ₹80-100/sqft), Shakuntalam flush doors, 500L Sintex tank, NO POP false ceiling.
+- ₹2,250 / SQFT Package: Luxury specification INCLUDING POP false ceiling across designated rooms (allowance ₹90-125/sqft), Jaquar luxury wall-hung suites (up to ₹7,000-10,000), large format 2x4 glazed vitrified tiles (up to ₹60-80/sqft), polished marble (up to ₹100-120/sqft), Century Ply/Advance doors, 1,000L Sintex PU tank.
+
+# 19 Inclusions
+The following scopes are strictly INCLUDED within the turnkey contract:
+- Foundation excavation, leveling, and PCC 8:5:1 bed concrete
+- Anti-termite barrier across foundation footprint
+- Full RCC framed structure in 3:2:1 concrete mix with Fe 550D TMT rebar
+- First-class Awwal red clay brick masonry (9-inch exterior, 4.5-inch interior)
+- Waterproof film-faced plywood shuttering formwork
+- Double-coat external rough (15mm) and internal fine sponge (10mm) plastering
+- Concealed PVC electrical conduits, FRLS copper wiring, and modular switch plates
+- Concealed PVC soil/drainage pipes and CPVC/UPVC water distribution lines
+- Sanitaryware commodes, washbasins, CP brass faucets, and overhead water tank
+- Vitrified flooring tiles, dining area marble, kitchen granite counter, and stair steps
+- Hardwood door frames, flush doors with Godrej locks, and UPVC glazed windows
+- Heavy MS box main entrance gate and SS staircase safety railing
+- White cement putty, interior washable emulsion, and synthetic enamel painting
+
+# 20 Exclusions
+The following scopes are strictly EXCLUDED from the turnkey rate (quoted separately or provided by property owner):
+- External compound boundary wall and decorative pillar caps (quoted on running foot basis)
+- Deep borewell drilling, casing pipe, and submersible pump installation
+- Garden, lawn grass, exterior landscaping, and garden water lines
+- Special elevation features (cantilever pergolas, louvers, exterior wooden ACP canopies)
+- Decorative tube lights, ceiling fans, chandeliers, and exhaust fans
+- Air conditioning (AC) split units and copper refrigerant piping
+- Loose furniture, wardrobes, beds, and modular kitchen wooden cabinetry
+- Elevator / lift machinery and shaft operating equipment
+- Main electrical power cable from utility street pole to site meter board
+- Temporary water and electricity consumed during construction (provided by property owner)
+- Earth / soil filling for plinth cavity backfill (provided by property owner)
+
+# 21 Measurement
+Quotation measurement rules strictly govern all billing and built-up area calculations:
+- Slab Area — 100% (Horizontal built-up roof slab projection measured at 100% rate)
+- Double Slab Area / Do Chhatti — 50% (Measured at 50% rate of horizontal area)
+- Stair Area — 150% (Measured at 150% rate due to specialized formwork, steel reinforcement cage, and vertical step risers)
+
+# 22 Payment Schedule
+Payments are made according to a verified 7-stage milestone schedule tied directly to civil progress:
+- Stage 1: 20% on booking and contract signing
+- Stage 2: 10% on plinth level completion (footings, tie-beams, plinth masonry)
+- Stage 3: 15% on column casting till beam bottom for respective floor
+- Stage 4: 10% on brick masonry / retaining walls for respective floor
+- Stage 5: 20% on RCC roof slab casting (dhalai)
+- Stage 6: 5% on plaster work completion (internal fine & external rough)
+- Stage 7: 20% on final finishing (tiling, sanitaryware, electrical fixtures, painting) and key handover
+Total: 100%
+
+# 23 FAQs
+Q1: What are the turnkey house construction rates by M/S Abdul Salam Constructions Company?
+A1: Official quotation rates are ₹1,500/sq.ft + 18% GST for Residential Hall turnkey construction, ₹1,850/sq.ft + 18% GST for Standard Residential Building turnkey construction, and ₹2,250/sq.ft + 18% GST for Premium Residential Building turnkey construction.
+
+Q2: Which cement and steel brands are specified in the quotation?
+A2: As specified in the quotation, commercial-grade UltraTech Weather Plus or ACC Gold ('Not for Sale' industrial grade) cement is utilized, paired with high-ductility Fe 550D TMT rebar from Tata, Jindal, Kamdhenu, Captain or equivalent.
+
+Q3: How are staircase and double slab areas measured for billing?
+A3: As per quotation measurement rules: Slab Area is measured at 100%, Double Slab Area / Do Chhatti is measured at 50%, and Stair Area is measured at 150% due to specialized formwork and vertical step casting.
+
+Q4: What is the stage-by-stage payment schedule?
+A4: Payments follow 7 milestone stages: Stage 1: 20% on booking; Stage 2: 10% on plinth completion; Stage 3: 15% on column casting till beam bottom; Stage 4: 10% on brick masonry; Stage 5: 20% on RCC roof slab casting; Stage 6: 5% on plaster completion; Stage 7: 20% on final finishing and key handover.
+
+Q5: What items are excluded from the turnkey package rate?
+A5: Exclusions comprise: external boundary wall, deep borewell and submersible pump, garden and landscaping, tube lights, fans, chandeliers, air conditioners, modular kitchen wooden cabinetry, loose furniture, elevator machinery, and temporary site electricity/water (provided by owner).
+
+# 24 Contact
+- Legal Business Name: M/S ABDUL SALAM CONSTRUCTIONS COMPANY
+- Registered Office Address: Phase-II, Rajpura Colony, Opposite H.P. Petrol Pump, Aurai Road, Bhadohi, Uttar Pradesh – 221401, India
+- Primary Mobile: +91 70075 29965
+- Secondary Mobile: +91 94155 25965
+- Project Hotline: +91 93052 15202
+- Official Email: contact@abdulconstruction.com
+- WhatsApp: +91 70075 29965
+- Online Estimate Calculator: https://abdulconstruction.com/get-a-quote
+
+# 25 Location
+- Base District: Sant Ravidas Nagar (Bhadohi District), Uttar Pradesh, India
+- Head Office Landmark: Opposite H.P. Petrol Pump, Aurai Road, Rajpura Colony Phase-II, Bhadohi – 221401
+- Coordinates: 25.3956° N, 82.5698° E (ICBM: 25.3956, 82.5698)
+- Active Site Service Locations: Bhadohi City, Aurai Road Corridor, Gyanpur Administrative Headquarters, Gopiganj GT Road (NH-19), Suriyawan, Khamaria, and adjacent regional corridors across Sant Ravidas Nagar district.

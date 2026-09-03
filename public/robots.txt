@@ -1,0 +1,54 @@
+# Generative Engine Optimization (GEO) & Search Crawler Directives
+# M/S Abdul Salam Construction Company (https://abdulconstruction.com)
+
+# OpenAI / ChatGPT Web Search & Training Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI Engine
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic / Claude AI Engine
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI Search & Gemini Overviews
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Cohere AI
+User-agent: Cohere-ai
+Allow: /
+
+# Bytedance / Doubao
+User-agent: Bytespider
+Allow: /
+
+# General Search Engines (Google, Bing, DuckDuckGo)
+User-agent: *
+Allow: /
+
+# Host
+Host: https://abdulconstruction.com
+
+# Sitemaps & Structured LLM Feeds
+Sitemap: https://abdulconstruction.com/sitemap.xml
+
+# LLM Optimized Content Endpoint (GEO Standard)
+# AI engines can fetch machine-readable summaries at:
+# https://abdulconstruction.com/llms.txt
+# https://abdulconstruction.com/llms-full.txt
