@@ -47,22 +47,7 @@ export const FloatingActions: React.FC<FloatingActionsProps> = ({
   };
 
   return (
-    <div className="fixed bottom-6 right-6 z-40 flex flex-col items-end gap-3 pointer-events-none">
-      {/* Floating Action */}
-      <motion.button
-        initial={{ scale: 0, opacity: 0 }}
-        animate={{ scale: 1, opacity: 1 }}
-        transition={{ delay: 0.8, type: 'spring', stiffness: 260, damping: 20 }}
-        onClick={handleWhatsAppClick}
-        className="pointer-events-auto flex items-center gap-2 bg-[#0B1B3D] hover:bg-[#E58A1F] text-white p-3 sm:px-4 sm:py-3 border border-[#1E3A5F] shadow-2xl hover:scale-105 transition-all duration-200 cursor-pointer group focus:outline-none focus:ring-2 focus:ring-[#E58A1F]"
-        aria-label="Contact or Request Site Consultation"
-      >
-        <MessageCircle className="w-5 h-5 text-[#E58A1F] group-hover:text-white" />
-        <span className="hidden sm:inline font-heading font-bold text-xs uppercase tracking-wider pr-1">
-          Quick Enquiry
-        </span>
-      </motion.button>
-
+    <div className="fixed bottom-24 right-6 z-40 flex flex-col items-end gap-3 pointer-events-none">
       {/* Back to Top Button */}
       <AnimatePresence>
         {showBackToTop && (

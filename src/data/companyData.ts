@@ -37,8 +37,8 @@ export const COMPANY_DATA: CompanyConfig = {
     phoneDisplay: "+91 70075 29965 / 94155 25965",
     email: "contact@abdulconstruction.com",
     emailDisplay: "contact@abdulconstruction.com",
-    whatsapp: "+917007529965",
-    whatsappDisplay: "+91 70075 29965",
+    whatsapp: "+918318943040",
+    whatsappDisplay: "+91 83189 43040",
     website: "https://abdulconstruction.com/contact",
     officeHours: "Monday – Saturday: 9:00 AM – 7:30 PM (Site Engineering Office)"
   },

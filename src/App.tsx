@@ -6,6 +6,7 @@ import { FloatingActions } from './components/common/FloatingActions';
 import { QuoteModal } from './components/modals/QuoteModal';
 import { ConsultationModal } from './components/modals/ConsultationModal';
 import { SEOHelmet } from './components/common/SEOHelmet';
+import { ChatSupport } from './components/chat/ChatSupport';
 
 // Pages
 import { HomePage } from './pages/HomePage';
@@ -238,8 +239,11 @@ export default function App() {
         onOpenQuoteModal={() => handleOpenQuoteModal()}
       />
 
-      {/* Floating Action Buttons (Quick Enquiry & Scroll to Top) */}
+      {/* Floating Action Buttons (Scroll to Top) */}
       <FloatingActions onOpenConsultationModal={handleOpenConsultationModal} />
+
+      {/* 24/7 Intelligent Construction Chat Support & WhatsApp Lead Bridge */}
+      <ChatSupport />
 
       {/* Interactive Modals */}
       <QuoteModal
